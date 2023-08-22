@@ -9,15 +9,14 @@
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [What is Data Science?](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/01-What%20is%20Data%20Science.pdf)|✅|
-| 02.     | [Tools for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/02-Tools%20for%20Data%20Science)|✅|
-| 03.     | [Data Science Methodology](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/03-Data%20Science%20Methodology)|✅|
-| 04.     | [Python for Data Science, AI & Development](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development)|✅|
-| 05.     | [Python Project for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/05-Python%20Project%20for%20Data%20Science)|✅|   
-| 06.     | [Databases and SQL for Data Science](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python) 									    |✅|
-| 07.     | [Data Analysis with Python](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/07-Data%20Analysis%20with%20Python)                   							|✅|
-| 08.     | [Data Visualization with Python](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/08-Data%20Visualization%20with%20Python)         								  |✅|
-| 09.     | [Machine Learning with Python](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/09-Machine%20Learning%20with%20Python)             							  |✅|
-| 10.     | [Applied Data Science Capstone](https://github.com/AI-MOO/IBM-Data-Science-Professional-Certificate/tree/master/10-Applied%20Data%20Science%20Capstone)           								  |✅|
+| 02.     | [Tools for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/02-Tools%20for%20Data%20Science.pdf)|✅|
+| 03.     | [Data Science Methodology](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/03-Data%20Science%20Methodology.pdf)|✅|
+| 04.     | [Python for Data Science, AI & Development](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)|✅|
+| 05.     | [Python Project for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/05-Python%20Project%20for%20Data%20Science.pdf)|✅|   
+| 06.     | [Databases and SQL for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf) 									    |✅|
+| 07.     | [Data Analysis with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/07-Data%20analysis%20with%20Python.pdf)                   							|✅|
+| 08.     | [Data Visualization with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/08-Data%20Visualization%20with%20Python.pdf)         								  |✅| 
+| 11.     | [Introduction to Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/Introduction%20to%20Data%20Science.pdf)         								  |✅| 
 
 
 

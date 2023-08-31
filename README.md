@@ -16,6 +16,7 @@
 | 06.     | [Databases and SQL for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf) 									    |✅|
 | 07.     | [Data Analysis with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/07-Data%20analysis%20with%20Python.pdf)                   							|✅|
 | 08.     | [Data Visualization with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/08-Data%20Visualization%20with%20Python.pdf)         								  |✅| 
+| 09.     | [Machine Learning with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/09-Machine%20Learning%20with%20Python.pdf)                                      |✅| 
 | 11.     | [Introduction to Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/Introduction%20to%20Data%20Science.pdf)         								  |✅| 
 
 
